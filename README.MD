@@ -8,4 +8,7 @@
 ![Zozor](https://zupimages.net/up/21/53/7s4g.png)
 
 
-[rismo.fr](https://rismo.fr/)
+
+[![https://ionicframework.com/img/promos/hybrid-vs-native@2x.png](https://ionicframework.com/img/promos/hybrid-vs-native@2x.png)](https://ionicframework.com/)
+
+
